@@ -1,0 +1,35 @@
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors BackgroundDark" />
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors BackgroundLight" />
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors Error" />
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors OnPrimary" />
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors OnPrimaryContainer" />
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors OnSecondary" />
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors OnSecondaryContainer" />
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors OnTertiary" />
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors OnTertiaryContainer" />
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors OutlineDark" />
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors OutlineLight" />
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors Primary" />
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors PrimaryContainer" />
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors Secondary" />
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors SecondaryContainer" />
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors Success" />
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors SurfaceDark" />
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors SurfaceLight" />
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors Tertiary" />
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors TertiaryContainer" />
+      <entry_point TYPE="field" FQNAME="com.example.orbisai.ui.theme.OrbisAIColors Warning" />
+    </entry_points>
+    <pattern value="com.example.orbisai.ui.theme.OrbisAIColors" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
